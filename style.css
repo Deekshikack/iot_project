@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    padding:10px;
+    margin: 50px;
+    justify-content: center;
+}
+
+h1{
+    background-color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:5px solid black;
+    border-radius: 10px;;
+}
+
+p{
+    background-color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:5px solid black;
+    border-radius: 10px;;
+}
+
+button{
+    cursor: pointer;
+    color:grey;
+}
